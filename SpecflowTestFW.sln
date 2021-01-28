@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecflowTestFW", "SpecflowTestFW\SpecflowTestFW.csproj", "{BB66706D-51AD-432D-BEBC-CDB29AF5BFAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB66706D-51AD-432D-BEBC-CDB29AF5BFAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB66706D-51AD-432D-BEBC-CDB29AF5BFAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB66706D-51AD-432D-BEBC-CDB29AF5BFAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB66706D-51AD-432D-BEBC-CDB29AF5BFAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6678745F-FA1C-4927-8B3C-E237EB1A7985}
+	EndGlobalSection
+EndGlobal
