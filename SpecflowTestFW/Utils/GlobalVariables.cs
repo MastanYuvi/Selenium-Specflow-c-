@@ -10,9 +10,7 @@ namespace SpecflowTestFW.Utils
 {
     public class GlobalVariables
     {
-
         public static readonly string URL = TestContext.Parameters["URL"].ToString();
         public static readonly string app_url = ConfigurationManager.AppSettings["app-url"].ToString();
-
     }
 }
